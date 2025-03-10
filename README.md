@@ -2,7 +2,6 @@
 - 👀 I’m interested in developement and cryptology
 - 🌱 I’m currently learning dev and try to do some excercice on rootme
 - 💞️ I’m looking to collaborate on different project to learn more
-- 📫 How to reach me on linkded
 -  😄 Pronouns: She
 - ⚡ Fun fact: ...
 
